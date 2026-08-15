@@ -1,0 +1,10 @@
+build/
+.cache/
+temp/
+.clangd
+scratchpad.txt
+*.nsys-rep
+asm/
+workflow.sh
+workflow_old.sh
+.vscode/
